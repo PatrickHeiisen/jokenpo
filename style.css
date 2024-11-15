@@ -1,0 +1,27 @@
+/*corpo geral*/
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    font-family:'Sour Gummy';
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #836FFF;
+}
+h1{
+    font-size: 4.5em;
+    margin-top: 20px;
+}
+
+h2{
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+h3{
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1.2em;
+}
